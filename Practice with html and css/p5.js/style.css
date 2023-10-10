@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color:#00807F;
+}
+
+canvas {
+  display: block;
+}
+
+.why{
+  background-color : white;
+  
+}
